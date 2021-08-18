@@ -10,13 +10,10 @@ Game Rules:
 
 - This quiz is similar to famous Show:Kaun Banega Crorepati
 
-- Here You will be having one account balance(Not real) which will keep on updating as you play
-
 - There are total 14 questions and last question carries **10 crore rupees** so check out can you reach till last question and become CROREPATI?
 
-- What if you give incorrect answer? 
+-  On every correct answer,your score increases by 1.If answered incorrect,no gain of points.
 
-  You are **OUT** of the game! but you still get total amount (that you won) in your **account balance**  till last question you answered correctly!
 
 - You cannot quit the game in between once started!
 
