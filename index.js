@@ -56,7 +56,7 @@ for(i=0; i<questions.length; i++){
 
 }
 
-console.log("\nYour score is: " + score + "/14")
+console.log("\nYour final score is: " + score + "/14")
 
 console.log("\nCheck out the current high scores: ")
 
