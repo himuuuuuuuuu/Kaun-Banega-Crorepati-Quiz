@@ -58,7 +58,20 @@ for(i=0; i<questions.length; i++){
 
 console.log("\nYour score is: " + score + "/14")
 
+console.log("\nCheck out the current high scores: ")
 
+var arrays = ["Soham: 10 ","Riya: 10", "Priyanka: 10","Akanksha: 10"]
+ 
+
+ for (let z=0; z<arrays.length; z++){
+   console.log(arrays[z])
+ }
+
+ if (score > 10){
+   console.log("\nCongratulations " + userName +  " You have beaten the high score.Send me a screenshot so that I will update your new best record")
+ }else{
+   console.log("Oops,you failed to beat the highscore")
+ }
 
 
 console.log(chalk.redBright.bgBlack.underline.bold("\n\n Hope you enjoyed ...For playing more quiz apps like this,Do follow me on twitter and instagram  \n\n"))
