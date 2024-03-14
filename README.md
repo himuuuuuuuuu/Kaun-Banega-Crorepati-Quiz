@@ -29,9 +29,7 @@ If you want to reach me or finding any issue with this,I am here to help!
 
 DM's are open at:
 
-twitter : https://twitter.com/SamyakShah_18
-
-instagram: https://www.instagram.com/samyakshah_18/
+twitter : (https://twitter.com/home)
 
 # End notes
 
