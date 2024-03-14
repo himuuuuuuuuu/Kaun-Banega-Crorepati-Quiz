@@ -74,15 +74,13 @@ var arrays = ["Soham: 10 ","Riya: 10", "Priyanka: 10","Akanksha: 10"]
  }
 
 
-console.log(chalk.redBright.bgBlack.underline.bold("\n\n Hope you enjoyed ...For playing more quiz apps like this,Do follow me on twitter and instagram  \n\n"))
+console.log(chalk.redBright.bgBlack.underline.bold("\n\n Hope you enjoyed ...For playing more quiz apps like this,Do follow me on twitter"))
 
 
-var twitter = chalk.blue.bold.underline("https://twitter.com/SamyakShah_18")
+var twitter = chalk.blue.bold.underline("https://twitter.com/home")
 
-var insta = chalk.blue.bold.underline("https://www.instagram.com/samyakshah_18/")
-
-console.log(chalk.yellowBright.bgBlack.bold("If you want to give any suggestions or experiencing any bugs in this quiz you can DM me on : " + "\n\n" + twitter + 
-"\n\n" +  insta))
+console.log(chalk.yellowBright.bgBlack.bold("If you want to give any suggestions or experiencing any bugs in this quiz you can DM me on : " + "\n\n" + twitter 
+))
 
 }
 
